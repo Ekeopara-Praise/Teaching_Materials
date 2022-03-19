@@ -7,9 +7,9 @@ Note: Here we assume that the student being taught have already covered Python B
 Week 1: Python for Data Analysis and Recorded classes (strictly on-demand)
 * [Numpy notebook](Data_Analysis_with_Numpy_1.ipynb)  
 * [Pandas notebook](Data_Analysis_Pandas.ipynb)
-* Matplotlib ....loading
+* [Matplotlib notebook](Data_Analysis_Matplotlib.ipynb) 
 
-Week 2: Project I (Well Log Analysis in Python)
+Week 2: Project I (Well Log Analysis in Python) ... loading
 * Well log plots and interpretation
 * Well log modification
 * Exploratory Well log Analysis
