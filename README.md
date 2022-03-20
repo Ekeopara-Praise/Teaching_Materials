@@ -10,8 +10,7 @@ Week 1: Python for Data Analysis and Recorded classes (strictly on-demand)
 * [Matplotlib notebook](Data_Analysis_Matplotlib.ipynb) 
 
 Week 2: Project I (Well Log Analysis in Python) ... loading
-* Well log plots and interpretation
-* Well log modification
+* Well log plots and Well log modification
 * Exploratory Well log Analysis
 
 Week 3: Introduction to Data Analytics
