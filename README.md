@@ -11,7 +11,7 @@ Week 1: Python for Data Analysis and Recorded classes (strictly on-demand)
 
 Week 2: Project I (Well Log Analysis in Python) ... loading
 * [Well log plots and Well log modification](Well_log_plots.ipynb)
-* Exploratory Well log Analysis
+* [Exploratory Well log Analysis](Well_Log_Data_Analysis.ipynb)
 
 Week 3: Introduction to Data Analytics
 * Petroleum Data Analytics
