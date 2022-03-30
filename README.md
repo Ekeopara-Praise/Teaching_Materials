@@ -15,7 +15,7 @@ Week 2: Project I (Well Log Analysis in Python) ... loading
 
 Week 3: Introduction to Data Analytics
 * [Petroleum Data Analytics](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/SPE%20Webinar%20by%20Praise%20Ekeopara.pptx)
-* Statistics for Data Understanding
+* [Statistics for Data Understanding](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Statistics%20for%20Data%20Understanding.ipynb)
 
 Week 4: Machine Learning
 * Introduction to Machine Learning
