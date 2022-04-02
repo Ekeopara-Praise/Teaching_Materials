@@ -19,7 +19,7 @@ Week 3: Introduction to Data Analytics
 
 Week 4: Machine Learning
 * Introduction to Machine Learning
-* Regression Algorithms and Use cases (Simple Projects)
+* Linear Regression Algorithm
 * Classification Algorithms and Use cases (Simple Projects)
 
 Week 5: Project II (CO2 Prediction)
