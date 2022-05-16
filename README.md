@@ -18,7 +18,7 @@ Week 3: Introduction to Data Analytics
 * [Statistics for Data Understanding](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Statistics%20for%20Data%20Understanding.ipynb)
 
 Week 4: Machine Learning
-* Introduction to Machine Learning
+* [Introduction to Machine Learning](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Introduction_to_Machine_Learning.ipynb)
 * Linear Regression Algorithm
 * Classification Algorithms and Use cases (Simple Projects)
 
