@@ -19,7 +19,7 @@ Week 3: Introduction to Data Analytics
 
 Week 4: Machine Learning
 * [Introduction to Machine Learning](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Introduction_to_Machine_Learning.ipynb)
-* Linear Regression Algorithm
+* [Linear Regression Algorithm](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Linear_Regression_Algorithm.ipynb)
 * Classification Algorithms and Use cases (Simple Projects)
 
 Week 5: Project II (CO2 Prediction)
