@@ -21,6 +21,7 @@ Week 4: Machine Learning
 * [Introduction to Machine Learning](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Introduction_to_Machine_Learning.ipynb)
 * [Linear Regression Algorithm](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Linear_Regression_Algorithm.ipynb)
 * [Classification Algorithms](https://github.com/Ekeopara-Praise/Target_Customer_Prediction)
+* [Reference text](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Confusion_Matrix.pdf)
 
 Week 5: Project II (CO2 Prediction)
 * Data Science methodology (CRIPS-DM)
