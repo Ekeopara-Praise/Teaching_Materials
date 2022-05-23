@@ -24,7 +24,7 @@ Week 4: Machine Learning
 * [Reference text](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Confusion_Matrix.pdf)
 
 Week 5: Project II (CO2 Prediction)
-* Data Science methodology (CRIPS-DM)
+* [Data Science methodology (CRIPS-DM)](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Data%20Science%20Methodology%20.ipynb)
 * Complete the Project
 
 Week 6: Project III (ROP Prediction)
