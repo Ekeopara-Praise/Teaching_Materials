@@ -28,5 +28,5 @@ Week 5: Project II (CO2 Prediction)
 * [Project](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Week_5%20Project%20II%20(CO2%20Prediction)/CO2_Prediction_Notebook.ipynb)
 
 Week 6: Project III (ROP Prediction)
-* Project Description
 * [Project](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
+* [ML Basics Presentation Slides](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/ML_Basics.pptx)
