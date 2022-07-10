@@ -25,7 +25,7 @@ Week 4: Machine Learning
 
 Week 5: Project II (CO2 Prediction)
 * [Data Science methodology (CRIPS-DM)](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Data%20Science%20Methodology%20.ipynb)
-* Complete the Project
+* [Project](https://github.com/Ekeopara-Praise/Teaching_Materials/blob/main/Week_5%20Project%20II%20(CO2%20Prediction)/CO2_Prediction_Notebook.ipynb)
 
 Week 6: Project III (ROP Prediction)
 * Consider different ML Algorithms
